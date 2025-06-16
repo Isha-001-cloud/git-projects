@@ -2,6 +2,8 @@ from tkinter  import Canvas, Tk
 import tkinter
 from tkinter.ttk import Label
 
+
+
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 SPEED = 50
